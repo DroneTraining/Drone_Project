@@ -1,0 +1,53 @@
+# Unity 生成的目录（不入库，克隆后由编辑器重新生成）
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Uu]ser[Ss]ettings/
+
+# 导入的 Asset Store 工具
+/[Aa]ssets/AssetStoreTools*
+
+# IDE 工程文件（Unity 会自动重新生成 .sln/.csproj）
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# 操作系统杂物
+.DS_Store
+Thumbs.db
+
+# 构建产物与打包
+*.apk
+*.aab
+*.app
+*.unitypackage
+/[Ee]xported[Oo]bj/
+
+# Unity 运行时诊断
+sysinfo.txt
+crashlytics-build.properties
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# 仅本机使用的脚本与本机排错笔记，不入库
+/Tools/Open-Unity-MCP.cmd
+/Tools/UNITY_MCP_LOCAL_NOTES.md
